@@ -10,6 +10,6 @@ similarities and differences between global temperature trends and temperature t
 * Key considerations when analyzing the trends.
 
 # Files
-"weatherDataQuery.sql" - SQL query 
-"results.csv" - SQL query data product
-"Report" - final report
+* "weatherDataQuery.sql" - SQL query 
+* "results.csv" - SQL query data product
+* "Report" - final report
