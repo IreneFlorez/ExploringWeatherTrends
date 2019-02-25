@@ -13,3 +13,7 @@ similarities and differences between global temperature trends and temperature t
 * "weatherDataQuery.sql" - SQL query 
 * "results.csv" - SQL query data product
 * "Report" - final report
+
+#More
+SF Weather Data
+https://www.ggweather.com/sf/monthly.html
